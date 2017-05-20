@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: cf1478e21f981c34fbb6824acfb035e5
+timeCreated: 1483239343
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AssassinIcon
+    21300002: ArcherIcon
+    21300004: warlordIcon
+    21300006: ElementalistIcon
+    21300008: SorcererIcon
+    21300010: RavagerIcon
+    21300012: PaladinIcon
+    21300014: StalkerIcon
+    21300016: OrcIcon
+    21300018: JusticiarIcon
+    21300020: RogueIcon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AssassinIcon
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 66
+        width: 139
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.5, y: 107}
+        - {x: -69.5, y: -107}
+        - {x: 69.5, y: -107}
+        - {x: 69.5, y: 107}
+    - name: ArcherIcon
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 508
+        width: 144
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 96.5}
+        - {x: -72, y: -96.5}
+        - {x: 72, y: -96.5}
+        - {x: 72, y: 96.5}
+    - name: warlordIcon
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 499
+        width: 214
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: 101}
+        - {x: -107, y: -101}
+        - {x: 107, y: -101}
+        - {x: 107, y: 101}
+    - name: ElementalistIcon
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 285
+        width: 162
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 106.5}
+        - {x: -81, y: -106.5}
+        - {x: 81, y: -106.5}
+        - {x: 81, y: 106.5}
+    - name: SorcererIcon
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 55
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87, y: 110}
+        - {x: -87, y: -110}
+        - {x: 87, y: -110}
+        - {x: 87, y: 110}
+    - name: RavagerIcon
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 288
+        width: 210
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105, y: 92.5}
+        - {x: -105, y: -92.5}
+        - {x: 105, y: -92.5}
+        - {x: 105, y: 92.5}
+    - name: PaladinIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 53
+        width: 192
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 113.5}
+        - {x: -96, y: -113.5}
+        - {x: 96, y: -113.5}
+        - {x: 96, y: 113.5}
+    - name: StalkerIcon
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 503
+        width: 140
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 97.5}
+        - {x: -70, y: -97.5}
+        - {x: 70, y: -97.5}
+        - {x: 70, y: 97.5}
+    - name: OrcIcon
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 282
+        width: 252
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126, y: 103.5}
+        - {x: -126, y: -103.5}
+        - {x: 126, y: -103.5}
+        - {x: 126, y: 103.5}
+    - name: JusticiarIcon
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 63
+        width: 149
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 98}
+        - {x: -74.5, y: -98}
+        - {x: 74.5, y: -98}
+        - {x: 74.5, y: 98}
+    - name: RogueIcon
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 500
+        width: 152
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 95}
+        - {x: -76, y: -95}
+        - {x: 76, y: -95}
+        - {x: 76, y: 95}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

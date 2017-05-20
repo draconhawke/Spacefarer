@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Elements>
+    <Element>
+      <id>1</id>
+      <name>Jimmy</name>
+      <description>New Jersey guy</description>
+      <curHP>100</curHP>
+      <maxHP>100</maxHP>
+    </Element>
+  </Elements>
+</Database>
